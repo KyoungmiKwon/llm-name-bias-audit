@@ -67,7 +67,8 @@ This study reports **observed differences in model outputs** under controlled na
 ├── analysis/
 │   ├── results.csv          # parsed scores and recommendations
 │   └── coding_scheme.md     # codebook for explanations (fixed before inspecting results)
-└── appendix/                # transcripts referenced in the paper
+├── appendix/                # transcripts referenced in the paper
+└── notes/                   # course notes (own words), not part of the experiment
 ```
 
 ## Setup
